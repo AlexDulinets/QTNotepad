@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new.png</file>
+        <file>newLumine.png</file>
+        <file>openLenochka.png</file>
+        <file>saveRaiden.png</file>
+        <file>author.png</file>
+        <file>version.png</file>
+        <file>DIO.png</file>
+        <file>plusChilde.png</file>
+        <file>minusKeqing.png</file>
+        <file>undo.png</file>
+        <file>redo.png</file>
+        <file>font.png</file>
+    </qresource>
+</RCC>
